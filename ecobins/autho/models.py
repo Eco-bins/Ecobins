@@ -4,7 +4,7 @@ from django.contrib.auth import get_user_model
 
 usermodel=get_user_model()
 
-class User(models.Model):
+class Userauth(models.Model):
     user = models.OneToOneField(usermodel,on_delete=models.CASCADE)
     phone = models.CharField(max_length=15,blank=False)
 
