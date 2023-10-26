@@ -2,4 +2,5 @@
 Ecobins.pptx
 /ecobins/*/__pycache__/
 /ecobins/migrations/*/__pycache__/
-*pyc
+*.pyc
+*.sqlite3
