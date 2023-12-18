@@ -16,22 +16,22 @@
 
 ## Pages (Basic outline):
 1. Content Creators:
--> home feed - instagram clone
--> upload - add file(img/vid), view file, edit
--> profile - reddit clone?
--> notifications - list view of new messages, follows, comments, etc.
+* home feed - instagram clone
+* upload - add file(img/vid), view file, edit
+* profile - reddit clone?
+* notifications - list view of new messages, follows, comments, etc.
 3. Marketplace:
--> product page ~post
--> cart pages
--> messaging
+* product page ~post
+* cart pages
+* messaging
 4. waste disposal service provider:
--> list of bookings
--> individual booking details page
+* list of bookings
+* individual booking details page
 5. Auth: *_ALREADY COMPLETED_*
--> login
--> register
--> forgot password
+* login
+* register
+* forgot password
 6. Profile:
--> basic public details + Posts
--> Settings
--> book waste pick up
+* basic public details + Posts
+* Settings
+* book waste pick up
