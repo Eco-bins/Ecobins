@@ -1,9 +1,9 @@
 # Ecobins
 
 ## Work divs
-*CORE:* Niranjan, Nitish, Ajay
-*DB Design:* Albert, Arjun
-*Templates:* Sabin, Ashin, Arun
+- *CORE:* Niranjan, Nitish, Ajay
+- *DB Design:* Albert, Arjun
+- *Templates:* Sabin, Ashin, Arun
 
 ## Assigned work
 1. Niranjan - *Create modules and prepare for templates & models*
