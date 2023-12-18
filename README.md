@@ -7,7 +7,7 @@
 
 ## Work divs
 - **CORE:** Niranjan, Nitish, Ajay
-- **DB Design:* Albert, Arjun
+- **DB Design:** Albert, Arjun
 - **Templates:** Sabin, Ashin, Arun
 
 ## Assigned work
