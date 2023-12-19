@@ -1,7 +1,7 @@
 # Ecobins
 ## Modules and Pages Outline:
 
-Refer: [DB Design.xlsx](! DB Design.xlsx)
+Refer: [DB Design.xlsx]('./! DB Design.xlsx')
 
 0. **Auth**: **`ALREADY COMPLETED`** *(Optional remake of DB design mentioned in the end)*
    - Login
