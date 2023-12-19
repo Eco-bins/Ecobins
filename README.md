@@ -36,7 +36,7 @@
   * login
   * register
   * forgot password
-### 5. Profile:
+### 5. Basic:
   * basic public details + Posts
   * Settings
   * book waste pick up
