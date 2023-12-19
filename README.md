@@ -35,7 +35,6 @@ Get DB design by downloading: [DB Design.xlsx](https://github.com/Eco-bins/Ecobi
    - Product Page
    - Cart Pages
    - Messaging
-   - Product Details (*Added*)
    - Checkout (*Added*)
    - **Database Tables**: 
      - `Product`: Stores product details (product_id, name, description, price)
