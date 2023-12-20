@@ -39,6 +39,10 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'autho',
+    'basic',
+    'creator',
+    'market',
+    'service',
 ]
 
 MIDDLEWARE = [
@@ -58,6 +62,10 @@ TEMPLATES = [
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
         'DIRS': [
             os.path.join(BASE_DIR,'autho/templates'),
+            os.path.join(BASE_DIR,'basic/templates'),
+            os.path.join(BASE_DIR,'creator/templates'),
+            os.path.join(BASE_DIR,'market/templates'),
+            os.path.join(BASE_DIR,'service/templates'),
         ],
         'APP_DIRS': True,
         'OPTIONS': {
@@ -123,6 +131,10 @@ STATIC_URL = 'static/'
 STATIC_ROOT = os.path.join(BASE_DIR, 'static')
 STATICFILES_DIRS = [
     os.path.join(BASE_DIR, 'autho/static'),
+    os.path.join(BASE_DIR, 'basic/static'),
+    os.path.join(BASE_DIR, 'creator/static'),
+    os.path.join(BASE_DIR, 'market/static'),
+    os.path.join(BASE_DIR, 'service/static'),
 ]
 
 # Default primary key field type
