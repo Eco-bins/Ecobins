@@ -5,9 +5,8 @@ from django.contrib.auth import get_user_model
 usermodel=get_user_model()
 
 class User(models.Model):
-    user = models.OneToOneField(usermodel,on_delete=models.CASCADE)
-    phone = models.CharField(max_length=15,blank=False)
-
-    name = models.CharField(max_length=50,blank=False)
-    age = models.PositiveBigIntegerField(blank=False)
-    address = models.TextField(blank=False)
+    UserID = models.AutoField(primary_key=True)
+    Username = models.CharField(max_length=255)
+    Email = models.EmailField()
+    Phone = models.CharField(max_length=15)
+    Password = models.CharField(max_length=255)
