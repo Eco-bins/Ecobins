@@ -63,7 +63,7 @@ class Booking(models.Model):
 # Basic Module
 class Profile(models.Model):
     UserID = models.ForeignKey(autho.User, on_delete=models.CASCADE)
-    Role = models.CharField(max_length=20, choices=[('content_creator', 'Content Creator'), ('customer', 'Customer'), ('waste_disposal_provider', 'Waste Disposal Provider')])
+    Role = models.CharField(max_length=25, choices=[('content_creator', 'Content Creator'), ('customer', 'Customer'), ('waste_disposal_provider', 'Waste Disposal Provider')])
     Address = models.TextField()
     ProfilePic = models.ImageField(upload_to='profile_pics/')
 
