@@ -1,4 +1,5 @@
 # Ecobins
+
 ## Modules and Pages Outline:
 
 Get DB design by downloading: [DB Design.xlsx](https://github.com/Eco-bins/Ecobins/blob/main/_db-des/DB%20Design.xlsx)
@@ -38,10 +39,4 @@ Get DB design by downloading: [DB Design.xlsx](https://github.com/Eco-bins/Ecobi
 
 
 ## Assigned work
-1. Niranjan - *Create modules and prepare for templates & models*
-2. Albert, Arjun - *Database design (Tables needed)*
-3. Sabin, Ashin, Arun - *Find templates & make the HTML/CSS pages accomodate the tables from DB Design*
-4. Niranjan, Nitish, Ajay, Sabin - *Make models for tables from DB Design* (Also, teach about models in Django and creation of models)
-5. _ALL_ - Model integration to templates.
-6.  ... etc.
-
+... `todo`
