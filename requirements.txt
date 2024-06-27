@@ -1,2 +1,2 @@
-//virtualenv
-pip install django
+django==5.0.2
+Pillow==10.2.0

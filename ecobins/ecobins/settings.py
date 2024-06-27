@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     'creator',
     'market',
     'service',
+    'ecobins',
 ]
 
 MIDDLEWARE = [
